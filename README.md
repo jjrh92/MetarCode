@@ -2,14 +2,14 @@
 
 <div align="center">
 
-![Github Contributors](https://img.shields.io/github/contributors/jjrh92/metarcode)
-![Github Stars](https://img.shields.io/github/stars/jjrh92/metarcode)
-![Github Issues](https://img.shields.io/github/issues-raw/jjrh92/metarcode)
+![Github Contributors](https://img.shields.io/github/contributors/jjrh92/MetarCode)
+![Github Stars](https://img.shields.io/github/stars/jjrh92/MetarCode)
+![Github Issues](https://img.shields.io/github/issues-raw/jjrh92/MetarCode)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jjrh92/metarcode">
+  <a href="https://github.com/jjrh92/MetarCode">
     <img src="https://www.weather.gov/images/pbz/aviation_icon.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -21,9 +21,9 @@
     <br />
     <a href="https://metarcode.julioreyes.dev/">View Demo - Ver Demo</a>
     ·
-    <a href="https://github.com/jjrh92/metarcode/issues">Report Bug - Reportar Bug</a>
+    <a href="https://github.com/jjrh92/MetarCode/issues">Report Bug - Reportar Bug</a>
     ·
-    <a href="https://github.com/jjrh92/metarcode/issues">Request Feature - Pedir Feature</a>
+    <a href="https://github.com/jjrh92/MetarCode/issues">Request Feature - Pedir Feature</a>
   </p>
 </div>
 
@@ -50,7 +50,7 @@ Install the project locally - Instalar el proyecto localmente.
 
 Clone the repo and run the command npm install, then run the command npm run dev
    ```sh
-   git clone https://github.com/jjrh92/metarcode.git
+   git clone https://github.com/jjrh92/MetarCode.git
    ```
 
 Si gustas tambien puedes ver el proyecto desplegado usando el enlace "View demo" de arriba.
