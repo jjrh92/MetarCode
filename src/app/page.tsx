@@ -57,7 +57,7 @@ export default function Home() {
     <main className="flex md:flex-row flex-col items-center justify-center sm:justify-around h-screen bg-blue-100 sm:px-20 sm:py-20">
       <div className="flex flex-col items-center gap-0 md:gap-2">
         <h1 className="hidden sm:flex text-xl md:text-6xl">METAR CODE</h1>
-        <h2 className="text-2xl text-gray-500">Airport Code</h2>
+        <h2 className="text-2xl text-gray-500">Airport Code (ICAO)</h2>
         <input
           autoComplete='off'
           className="text-green-600 text-4xl sm:text-9xl w-[300px] mb-2 md:pb-0 sm:w-96 text-center font-bold"
