@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jjrh92/MetarCode">
-    <img src="https://www.weather.gov/images/pbz/aviation_icon.png" alt="Logo" width="200" height="200">
+    <img src="https://orbitshub.com/wp-content/uploads/2023/09/Enhancing-Flight-Safety-with-Aviation-Weather-Center-Radar.jpg" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Welcome - Bienvenid@</h3>
