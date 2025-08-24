@@ -92,4 +92,4 @@ Acknowledgments <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXli
 </h1>
 
 [checkwxapi.com](https://www.checkwxapi.com//)
-[Taylon Schmidt](https://www.linkedin.com/in/schmidtx/)
+
